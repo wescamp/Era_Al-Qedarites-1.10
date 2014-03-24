@@ -1,6 +1,26 @@
-
-		  -----= ERA Al-Qedarites =-----
 			 CHANGELOG
+________________________________________________________________________________
+
+
+Version 1.9.0
+ = stripped off the mounted line of units
+ = changed sprites for the suicide bomber unit 'shaheed' 
+	--- pasted into it a bomb graphic
+
+
+Version 1.1.0
+ = made fit for 'The Southern Alliance'
+
+Version 1.0.2
+ = changes in units:
+	* ad shaheed suicide bomber (lvl1)
+	* removed mounted units and put them into Era Emirate
+	* removed falcon units
+ = minor mainenance edits
+
+Version 1.0.1
+ = new version naming sheme
+ = errors & typos
 
 
 Version 0.11.8.10
